@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
+
+# Build artifacts
+build/
+dist/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
